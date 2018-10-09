@@ -1,0 +1,75 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Alegreya-Regular
+FamilyName:Alegreya
+StyleName:Regular
+MenuName:Alegreya
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Alegreya Regular
+WritingScript:Roman
+OutlineFileName:\Alegreya-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:272100
+FileModTime:1520917172
+NameArray:0,Mac,4,Alegreya Regular
+NameArray:0,Win,1,Alegreya
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Montserrat ExtraBold
+WritingScript:Roman
+OutlineFileName:\Montserrat 800.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:262108
+FileModTime:1518990795
+NameArray:0,Mac,4,Montserrat ExtraBold
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+MenuName:Montserrat
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Regular
+WritingScript:Roman
+OutlineFileName:\Montserrat regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:263192
+FileModTime:1518990804
+NameArray:0,Mac,4,Montserrat Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
